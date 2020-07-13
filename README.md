@@ -1,5 +1,8 @@
 # ML_Clustering_Location
 
+![Screenshot](Pharmacy.PNG)
+
+
 Opening a successful independent pharmacy is a challenging undertaking for any entrepreneur, especially with the competitiveness of today’s retail pharmacy market.
 Questions for an entrepreneur
 
@@ -28,3 +31,7 @@ Wikipedia: https://en.wikipedia.org/wiki/Special_wards_of_Tokyo#List_of_postal_c
 Geospatial data: http://cocl.us/Geospatial_data
 
 Foursquare APIs
+
+## Results
+
+![Screenshot](Map.PNG)
